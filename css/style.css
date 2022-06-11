@@ -1,0 +1,67 @@
+.p1 {
+    height: 300px;
+    background-color: #E7B8B9;
+    background-image: url(https://images.unsplash.com/photo-1617434194128-c6ec60978f50?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+    background-position: center center;
+    margin: 3px;
+    background-size: cover;
+}
+.p2 {
+    height: 300px;
+    background-color: #989099;
+    background-image: url(https://images.unsplash.com/photo-1521341025055-09c1640c1223?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60);
+	background-position: center center;
+    background-size: cover;
+	    margin: 3px;
+
+}
+.p3 {
+    height: 300px;
+    background-color: #CCD4A2;
+    background-image: url(https://images.unsplash.com/photo-1642175068990-48472bad0ab0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60);
+	background-position: center center;
+    background-size: cover;
+	    margin: 3px;
+
+}
+.p4 {
+    height: 300px;
+    background-color: #CCD4A2;
+    background-image: url(https://images.unsplash.com/photo-1635431542971-cbd454fa1cd4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=801&q=80);
+	background-position: center center;
+    background-size: cover;
+		    margin: 3px;
+
+}
+.p5 {
+    height: 300px;
+    background-color: #CCD4A2;
+    background-image: url(https://images.unsplash.com/photo-1440151050977-247552660a3b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1390&q=80);
+	background-position: center center;
+    background-size: cover;
+	    margin: 3px;
+
+}
+.p6 {
+    height: 600px;
+    background-color: #CCD4A2;
+    background-image: url(https://images.unsplash.com/photo-1600763773929-ed69f0097b2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80);
+	background-position: center center;
+    background-size: cover;
+	    margin: 3px;
+
+}
+.title {
+    height: 110px;
+    text-align: center;
+    font-size: xx-large;
+    color: #6B4C26;
+    background-color: #A6C4C9;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-weight: bolder;
+    text-indent: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
